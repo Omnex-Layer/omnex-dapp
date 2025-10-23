@@ -18,8 +18,8 @@ Deploy your DApp on Omnex — the EVM-equivalent Layer 2 designed for performanc
 
 Stop waiting. Start building.
 
-📖 **Docs:** [(linkas)  ]((link))  
-⚡ **Quickstart:** [(linkas)  ]((link))
+📖 **Docs:** [(links)  ]((link))  
+⚡ **Quickstart:** [(links)  ]((link))
 
 ---
 ## 🚀 How to Get Your DApp Listed
