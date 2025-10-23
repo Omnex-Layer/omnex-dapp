@@ -1,0 +1,21 @@
+{
+  "name": "Your DApp Name",
+  "description": "A short, one-line summary describing your DApp.",
+  "url": "https://...",
+  "logo": "https://.../logo.png",
+  "categories": ["DeFi", "GameFi", "or-other-categories"],
+  "sourceUrl": "https://github.com/...",
+  "auditReport": "path/to/audit/report",
+  "contracts": [
+    {
+      "address": "0x...",
+      "network": "Omnex Mainnet",
+      "description": "e.g., Core logic contract"
+    },
+    {
+      "address": "0x...",
+      "network": "Omnex Mainnet",
+      "description": "e.g., Token or governance contract"
+    }
+  ]
+}
